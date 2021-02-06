@@ -1,0 +1,778 @@
+fileFormatVersion: 2
+guid: 220af26570b50044086ead741080c8b6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4305812651710074244
+    second: Gif9_0
+  - first:
+      213: -2076256663314547098
+    second: Gif9_1
+  - first:
+      213: -847302801879820035
+    second: Gif9_2
+  - first:
+      213: -4047886136602647039
+    second: Gif9_3
+  - first:
+      213: -3027918173357433387
+    second: Gif9_4
+  - first:
+      213: 7198578946788695462
+    second: Gif9_5
+  - first:
+      213: 901835855720497324
+    second: Gif9_6
+  - first:
+      213: -2483367459942740141
+    second: Gif9_7
+  - first:
+      213: 8976549719619415881
+    second: Gif9_8
+  - first:
+      213: -5802777993721525345
+    second: Gif9_9
+  - first:
+      213: -3871383708533326262
+    second: Gif9_10
+  - first:
+      213: -8612356453052549244
+    second: Gif9_11
+  - first:
+      213: 580779635467620164
+    second: Gif9_12
+  - first:
+      213: 8342104261025872585
+    second: Gif9_13
+  - first:
+      213: 7340812190889962156
+    second: Gif9_14
+  - first:
+      213: -5717354260919594541
+    second: Gif9_15
+  - first:
+      213: -1727349461014506087
+    second: Gif9_16
+  - first:
+      213: -832702546308004329
+    second: Gif9_17
+  - first:
+      213: 4569644633113608172
+    second: Gif9_18
+  - first:
+      213: 7512429034612918920
+    second: Gif9_19
+  - first:
+      213: 6146147998100532845
+    second: Gif9_20
+  - first:
+      213: -2912157945676395551
+    second: Gif9_21
+  - first:
+      213: 1169924771045754406
+    second: Gif9_22
+  - first:
+      213: 6841545956780669892
+    second: Gif9_23
+  - first:
+      213: -5111728134353707123
+    second: Gif9_24
+  - first:
+      213: -2501384537056666726
+    second: Gif9_25
+  - first:
+      213: 1568305616462814692
+    second: Gif9_26
+  - first:
+      213: -1220166258384304823
+    second: Gif9_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 75
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gif9_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1014
+        width: 300
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48dcf862bc151cb30800000000000000
+      internalID: 4305812651710074244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif9_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1014
+        width: 300
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e3990b097af23e0800000000000000
+      internalID: -2076256663314547098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif9_2
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1014
+        width: 300
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df892c44796cd34f0800000000000000
+      internalID: -847302801879820035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif9_3
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1014
+        width: 300
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1062290610503d7c0800000000000000
+      internalID: -4047886136602647039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif9_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 845
+        width: 300
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd9414c67caaf5d0800000000000000
+      internalID: -3027918173357433387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif9_5
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 845
+        width: 300
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad12f2996d76e360800000000000000
+      internalID: 7198578946788695462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif9_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 845
+        width: 300
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca04ee1cee6f38c00800000000000000
+      internalID: 901835855720497324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif9_7
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 845
+        width: 300
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f495fd37e498dd0800000000000000
+      internalID: -2483367459942740141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif9_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 676
+        width: 300
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f2c82096c139c70800000000000000
+      internalID: 8976549719619415881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif9_9
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 676
+        width: 300
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b46cdb824687fa0800000000000000
+      internalID: -5802777993721525345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif9_10
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 676
+        width: 300
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ef2af4705164ac0800000000000000
+      internalID: -3871383708533326262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif9_11
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 676
+        width: 300
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48772c8af63ca7880800000000000000
+      internalID: -8612356453052549244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif9_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 507
+        width: 300
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f04d850085f0800800000000000000
+      internalID: 580779635467620164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif9_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 507
+        width: 300
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca38b580ab15c370800000000000000
+      internalID: 8342104261025872585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif9_14
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 507
+        width: 300
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa6ad85bcdcfd560800000000000000
+      internalID: 7340812190889962156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif9_15
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 507
+        width: 300
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d152de6790e7a0b0800000000000000
+      internalID: -5717354260919594541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif9_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 338
+        width: 300
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995944d21d83708e0800000000000000
+      internalID: -1727349461014506087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif9_17
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 338
+        width: 300
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7168fbb2275a174f0800000000000000
+      internalID: -832702546308004329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif9_18
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 338
+        width: 300
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefb1823593aa6f30800000000000000
+      internalID: 4569644633113608172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif9_19
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 338
+        width: 300
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a0f688762814860800000000000000
+      internalID: 7512429034612918920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif9_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 169
+        width: 300
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ea2c36a018b4550800000000000000
+      internalID: 6146147998100532845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif9_21
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 169
+        width: 300
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb802617cfe597d0800000000000000
+      internalID: -2912157945676395551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif9_22
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 169
+        width: 300
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626cc1871686c3010800000000000000
+      internalID: 1169924771045754406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif9_23
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 169
+        width: 300
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbfb64bccd02fe50800000000000000
+      internalID: 6841545956780669892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif9_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 300
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f1a7b485e7f09b0800000000000000
+      internalID: -5111728134353707123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif9_25
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 300
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b1516340c494dd0800000000000000
+      internalID: -2501384537056666726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif9_26
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 300
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed148026adb3c510800000000000000
+      internalID: 1568305616462814692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif9_27
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 300
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9450612b049111fe0800000000000000
+      internalID: -1220166258384304823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

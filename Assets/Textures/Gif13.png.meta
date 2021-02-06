@@ -1,0 +1,2176 @@
+fileFormatVersion: 2
+guid: eef2862791e357249b64f6d385959629
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4264782871031513025
+    second: Gif13_0
+  - first:
+      213: -2678296675522611206
+    second: Gif13_1
+  - first:
+      213: 1922036859026170219
+    second: Gif13_2
+  - first:
+      213: -6510694907883432185
+    second: Gif13_3
+  - first:
+      213: 4104982443872802819
+    second: Gif13_4
+  - first:
+      213: -5340605293447802524
+    second: Gif13_5
+  - first:
+      213: -7328141540734961039
+    second: Gif13_6
+  - first:
+      213: 9118667433963474480
+    second: Gif13_7
+  - first:
+      213: -8737589948444081715
+    second: Gif13_8
+  - first:
+      213: -6168600346348209247
+    second: Gif13_9
+  - first:
+      213: -4065086880940959122
+    second: Gif13_10
+  - first:
+      213: -6069701717119116989
+    second: Gif13_11
+  - first:
+      213: 4932910609446371505
+    second: Gif13_12
+  - first:
+      213: -6593299806443918195
+    second: Gif13_13
+  - first:
+      213: 8455733147223891922
+    second: Gif13_14
+  - first:
+      213: 6589915816146998612
+    second: Gif13_15
+  - first:
+      213: 2412963227564642735
+    second: Gif13_16
+  - first:
+      213: 3590681666035225087
+    second: Gif13_17
+  - first:
+      213: -3925617094478764046
+    second: Gif13_18
+  - first:
+      213: -5617863202168380029
+    second: Gif13_19
+  - first:
+      213: 4686725651869055746
+    second: Gif13_20
+  - first:
+      213: 5761988677823900007
+    second: Gif13_21
+  - first:
+      213: 2403876902212856738
+    second: Gif13_22
+  - first:
+      213: -342489708849622484
+    second: Gif13_23
+  - first:
+      213: 6020176082408866141
+    second: Gif13_24
+  - first:
+      213: -5077107692084550772
+    second: Gif13_25
+  - first:
+      213: 7322996994937396549
+    second: Gif13_26
+  - first:
+      213: -180573944365577904
+    second: Gif13_27
+  - first:
+      213: 5203149646919303369
+    second: Gif13_28
+  - first:
+      213: -7841754780103698012
+    second: Gif13_29
+  - first:
+      213: 6776599812643582306
+    second: Gif13_30
+  - first:
+      213: 5522930445203382180
+    second: Gif13_31
+  - first:
+      213: 3413946233254269709
+    second: Gif13_32
+  - first:
+      213: -8126674051222247851
+    second: Gif13_33
+  - first:
+      213: -7914687964339015349
+    second: Gif13_34
+  - first:
+      213: -4853213196316655492
+    second: Gif13_35
+  - first:
+      213: -5734656840858201353
+    second: Gif13_36
+  - first:
+      213: -6194129748092055242
+    second: Gif13_37
+  - first:
+      213: -8420184819654587573
+    second: Gif13_38
+  - first:
+      213: -4866881395778324607
+    second: Gif13_39
+  - first:
+      213: 2673009681725225867
+    second: Gif13_40
+  - first:
+      213: 927770308431376235
+    second: Gif13_41
+  - first:
+      213: -5606465108535606885
+    second: Gif13_42
+  - first:
+      213: 1027301739622099993
+    second: Gif13_43
+  - first:
+      213: 8115467384481833625
+    second: Gif13_44
+  - first:
+      213: 1676169440768789037
+    second: Gif13_45
+  - first:
+      213: 1222134994173073846
+    second: Gif13_46
+  - first:
+      213: 2587139181156382688
+    second: Gif13_47
+  - first:
+      213: -2875001854253656103
+    second: Gif13_48
+  - first:
+      213: 3076966784633864807
+    second: Gif13_49
+  - first:
+      213: -8020457219391021693
+    second: Gif13_50
+  - first:
+      213: 7180576757885892256
+    second: Gif13_51
+  - first:
+      213: 8226928576909272117
+    second: Gif13_52
+  - first:
+      213: -8260054440542442168
+    second: Gif13_53
+  - first:
+      213: 66660806002701567
+    second: Gif13_54
+  - first:
+      213: 6233335969975310636
+    second: Gif13_55
+  - first:
+      213: 4774558926094183602
+    second: Gif13_56
+  - first:
+      213: 2598441183307182635
+    second: Gif13_57
+  - first:
+      213: -5538582701062127734
+    second: Gif13_58
+  - first:
+      213: -873996302642830583
+    second: Gif13_59
+  - first:
+      213: -7258887893127912706
+    second: Gif13_60
+  - first:
+      213: -8741885489286298876
+    second: Gif13_61
+  - first:
+      213: 2874475417286940127
+    second: Gif13_62
+  - first:
+      213: -6289909825871048745
+    second: Gif13_63
+  - first:
+      213: 6153144778709052359
+    second: Gif13_64
+  - first:
+      213: 5697304466139630828
+    second: Gif13_65
+  - first:
+      213: -746781019657212782
+    second: Gif13_66
+  - first:
+      213: -8695748038194186213
+    second: Gif13_67
+  - first:
+      213: -4455644453285658950
+    second: Gif13_68
+  - first:
+      213: -8422712471092842620
+    second: Gif13_69
+  - first:
+      213: 5084447279422838240
+    second: Gif13_70
+  - first:
+      213: 2453371533380514029
+    second: Gif13_71
+  - first:
+      213: -526336340130287750
+    second: Gif13_72
+  - first:
+      213: 2260303566666757569
+    second: Gif13_73
+  - first:
+      213: -6837085285137058735
+    second: Gif13_74
+  - first:
+      213: -2316763725294317933
+    second: Gif13_75
+  - first:
+      213: -4368256937025778159
+    second: Gif13_76
+  - first:
+      213: -7063973107788586457
+    second: Gif13_77
+  - first:
+      213: 2369747488875887605
+    second: Gif13_78
+  - first:
+      213: 7878637132547567972
+    second: Gif13_79
+  - first:
+      213: 7491255616348567642
+    second: Gif13_80
+  - first:
+      213: -8597090622262139069
+    second: Gif13_81
+  - first:
+      213: 8440446000383205324
+    second: Gif13_82
+  - first:
+      213: -7596122147416922695
+    second: Gif13_83
+  - first:
+      213: -1893818131816935185
+    second: Gif13_84
+  - first:
+      213: -328255974188174569
+    second: Gif13_85
+  - first:
+      213: -8506632607599662405
+    second: Gif13_86
+  - first:
+      213: -2118898711971983397
+    second: Gif13_87
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gif13_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2510
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f300ff7139270d4c0800000000000000
+      internalID: -4264782871031513025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_1
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 2510
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af77d542d57c4dad0800000000000000
+      internalID: -2678296675522611206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_2
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 2510
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61667307527caa10800000000000000
+      internalID: 1922036859026170219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_3
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 2510
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707d9a6f97d55a5a0800000000000000
+      internalID: -6510694907883432185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_4
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 2510
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308d04898c3d7f830800000000000000
+      internalID: 4104982443872802819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_5
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 2510
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461197608cb52e5b0800000000000000
+      internalID: -5340605293447802524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_6
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 2510
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a75b848163d4a90800000000000000
+      internalID: -7328141540734961039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_7
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 2510
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ec05ae7b30c8e70800000000000000
+      internalID: 9118667433963474480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2259
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc187f15c38ddb680800000000000000
+      internalID: -8737589948444081715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_9
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 2259
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab309aeaaab46aa0800000000000000
+      internalID: -6168600346348209247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_10
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 2259
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ad9600509e597c0800000000000000
+      internalID: -4065086880940959122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_11
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 2259
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349598a627614cba0800000000000000
+      internalID: -6069701717119116989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_12
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 2259
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b08ec84018357440800000000000000
+      internalID: 4932910609446371505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_13
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 2259
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c224342c4ef74a0800000000000000
+      internalID: -6593299806443918195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_14
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 2259
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df96cb3f7cc85570800000000000000
+      internalID: 8455733147223891922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_15
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 2259
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4559b291585147b50800000000000000
+      internalID: 6589915816146998612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2008
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1121365419c7120800000000000000
+      internalID: 2412963227564642735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_17
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 2008
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1998573f9a4d130800000000000000
+      internalID: 3590681666035225087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_18
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 2008
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f764672d086589c0800000000000000
+      internalID: -3925617094478764046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_19
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 2008
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385e30eae275902b0800000000000000
+      internalID: -5617863202168380029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_20
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 2008
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20bbd5726289a0140800000000000000
+      internalID: 4686725651869055746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_21
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 2008
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76924859c22b6ff40800000000000000
+      internalID: 5761988677823900007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_22
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 2008
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abe9286e494c5120800000000000000
+      internalID: 2403876902212856738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_23
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 2008
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c229ac4ac6b3f3bf0800000000000000
+      internalID: -342489708849622484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1757
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51884d2046fb8350800000000000000
+      internalID: 6020176082408866141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_25
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1757
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83a5e6247d7a89b0800000000000000
+      internalID: -5077107692084550772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_26
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1757
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d1f7ec7f280a560800000000000000
+      internalID: 7322996994937396549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_27
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1757
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059066e44f87e7df0800000000000000
+      internalID: -180573944365577904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_28
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 1757
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c003d1590d453840800000000000000
+      internalID: 5203149646919303369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_29
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 1757
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9923c239d7c2390800000000000000
+      internalID: -7841754780103698012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_30
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 1757
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261799920a15b0e50800000000000000
+      internalID: 6776599812643582306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_31
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 1757
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af99896af365ac40800000000000000
+      internalID: 5522930445203382180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1506
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d035763e206c06f20800000000000000
+      internalID: 3413946233254269709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_33
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1506
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5566383e101483f80800000000000000
+      internalID: -8126674051222247851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_34
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1506
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b417381fa31692290800000000000000
+      internalID: -7914687964339015349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_35
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1506
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70ce46bf4ce5acb0800000000000000
+      internalID: -4853213196316655492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_36
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 1506
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f212eb9cf76a60b0800000000000000
+      internalID: -5734656840858201353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_37
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 1506
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6311b40efc70a0aa0800000000000000
+      internalID: -6194129748092055242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_38
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 1506
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b0a51c48e752b80800000000000000
+      internalID: -8420184819654587573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_39
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 1506
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187fca8082d557cb0800000000000000
+      internalID: -4866881395778324607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1255
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b7960b420781520800000000000000
+      internalID: 2673009681725225867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_41
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1255
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6fe4331e2a10ec00800000000000000
+      internalID: 927770308431376235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_42
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1255
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b910d1820b5d132b0800000000000000
+      internalID: -5606465108535606885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_43
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1255
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ce0534d75b14e00800000000000000
+      internalID: 1027301739622099993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_44
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 1255
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992ee4ea69eef9070800000000000000
+      internalID: 8115467384481833625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_45
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 1255
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a8364c933f24710800000000000000
+      internalID: 1676169440768789037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_46
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 1255
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b992435d45e5f010800000000000000
+      internalID: 1222134994173073846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_47
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 1255
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e73255c06d57e320800000000000000
+      internalID: 2587139181156382688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1004
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d71f94cb01f918d0800000000000000
+      internalID: -2875001854253656103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_49
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1004
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76207c7fcf493ba20800000000000000
+      internalID: 3076966784633864807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_50
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1004
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d1bf537ac91b090800000000000000
+      internalID: -8020457219391021693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_51
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1004
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6f638548886a360800000000000000
+      internalID: 7180576757885892256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_52
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 1004
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534ef2bd3fbeb2270800000000000000
+      internalID: 8226928576909272117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_53
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 1004
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d641eff346e5d80800000000000000
+      internalID: -8260054440542442168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_54
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 1004
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff47b3e56a3dce000800000000000000
+      internalID: 66660806002701567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_55
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 1004
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c291b000a02418650800000000000000
+      internalID: 6233335969975310636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 753
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bca30deb04a24240800000000000000
+      internalID: 4774558926094183602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_57
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 753
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2235c43d748f0420800000000000000
+      internalID: 2598441183307182635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_58
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 753
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f7118c0600323b0800000000000000
+      internalID: -5538582701062127734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_59
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 753
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90328fd4ef0fed3f0800000000000000
+      internalID: -873996302642830583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_60
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 753
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef22ab1abef334b90800000000000000
+      internalID: -7258887893127912706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_61
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 753
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403c2f7c6759ea680800000000000000
+      internalID: -8741885489286298876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_62
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 753
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd51bf2992034e720800000000000000
+      internalID: 2874475417286940127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_63
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 753
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df87b7b650c5b8a0800000000000000
+      internalID: -6289909825871048745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 502
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cba082539c546550800000000000000
+      internalID: 6153144778709052359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_65
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 502
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceccf71f934e01f40800000000000000
+      internalID: 5697304466139630828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_66
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 502
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ce3568e96e2a5f0800000000000000
+      internalID: -746781019657212782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_67
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 502
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18b2273b3f725780800000000000000
+      internalID: -8695748038194186213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_68
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 502
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abef77c0afe5a22c0800000000000000
+      internalID: -4455644453285658950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_69
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 502
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f224b02a38c1b80800000000000000
+      internalID: -8422712471092842620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_70
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 502
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e51331bcd59f8640800000000000000
+      internalID: 5084447279422838240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_71
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 502
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0733d39602c0220800000000000000
+      internalID: 2453371533380514029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 251
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7fa72623e312b8f0800000000000000
+      internalID: -526336340130287750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_73
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 251
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c578b74e163e5f10800000000000000
+      internalID: 2260303566666757569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_74
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 251
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154fa58582bcd11a0800000000000000
+      internalID: -6837085285137058735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_75
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 251
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e4255aaa339dfd0800000000000000
+      internalID: -2316763725294317933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_76
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 251
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e41f4b575d063c0800000000000000
+      internalID: -4368256937025778159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_77
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 251
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722695f82e9b7fd90800000000000000
+      internalID: -7063973107788586457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_78
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 251
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb32d129c803e020800000000000000
+      internalID: 2369747488875887605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_79
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 251
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46133bfaaba865d60800000000000000
+      internalID: 7878637132547567972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a583b1eea4946f760800000000000000
+      internalID: 7491255616348567642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_81
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 0
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347293ed0aff0b880800000000000000
+      internalID: -8597090622262139069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_82
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 0
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf15befaec722570800000000000000
+      internalID: 8440446000383205324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_83
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 0
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5acb42727259690800000000000000
+      internalID: -7596122147416922695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_84
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 0
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe09bd7617ec7b5e0800000000000000
+      internalID: -1893818131816935185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif13_85
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 0
+        width: 334
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7133d1f3eecc17bf0800000000000000
+      internalID: -328255974188174569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

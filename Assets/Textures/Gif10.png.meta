@@ -1,0 +1,1153 @@
+fileFormatVersion: 2
+guid: 83b405e6334aed94999af27f50a6d57a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1370681921679494816
+    second: Gif11_0
+  - first:
+      213: 5391137076627160890
+    second: Gif11_1
+  - first:
+      213: -8159730256391793107
+    second: Gif11_2
+  - first:
+      213: 5250474120221687313
+    second: Gif11_3
+  - first:
+      213: 3298744749844593232
+    second: Gif11_4
+  - first:
+      213: -3756413367158073256
+    second: Gif11_5
+  - first:
+      213: -6285502266810553975
+    second: Gif11_6
+  - first:
+      213: 538807702526855590
+    second: Gif11_7
+  - first:
+      213: -6939408024517384206
+    second: Gif11_8
+  - first:
+      213: 3105515652343396045
+    second: Gif11_9
+  - first:
+      213: 1388969927609711229
+    second: Gif11_10
+  - first:
+      213: 4918561821278492363
+    second: Gif11_11
+  - first:
+      213: -3198810823376682166
+    second: Gif11_12
+  - first:
+      213: -5112123468684978800
+    second: Gif11_13
+  - first:
+      213: 1445999215656511182
+    second: Gif11_14
+  - first:
+      213: -4906364097345932258
+    second: Gif11_15
+  - first:
+      213: 974606976639311883
+    second: Gif11_16
+  - first:
+      213: 7967512956582712799
+    second: Gif11_17
+  - first:
+      213: 7896485261267533567
+    second: Gif11_18
+  - first:
+      213: -3324738285377966051
+    second: Gif11_19
+  - first:
+      213: 3140988840403667872
+    second: Gif11_20
+  - first:
+      213: 2688248842050864422
+    second: Gif11_21
+  - first:
+      213: 3823595288083948720
+    second: Gif11_22
+  - first:
+      213: 4338532611800254972
+    second: Gif11_23
+  - first:
+      213: -5844809158640727340
+    second: Gif11_24
+  - first:
+      213: 6845045341402973878
+    second: Gif11_25
+  - first:
+      213: 8844992736313082898
+    second: Gif11_26
+  - first:
+      213: 2206179623854828267
+    second: Gif11_27
+  - first:
+      213: -3538978209605614820
+    second: Gif11_28
+  - first:
+      213: -2392996385582601626
+    second: Gif11_29
+  - first:
+      213: -2614765477147174202
+    second: Gif11_30
+  - first:
+      213: 8452274709840825674
+    second: Gif11_31
+  - first:
+      213: 3675772801142160930
+    second: Gif11_32
+  - first:
+      213: -8427977602660472795
+    second: Gif11_33
+  - first:
+      213: -5868156953426045515
+    second: Gif11_34
+  - first:
+      213: -4240862698566479563
+    second: Gif11_35
+  - first:
+      213: 8429091644537964382
+    second: Gif11_36
+  - first:
+      213: 1314510715195399918
+    second: Gif11_37
+  - first:
+      213: -7956118406225482195
+    second: Gif11_38
+  - first:
+      213: -5768358569269513663
+    second: Gif11_39
+  - first:
+      213: -4192947259759368942
+    second: Gif11_40
+  - first:
+      213: 388555084677999592
+    second: Gif11_41
+  - first:
+      213: 2951038582246674069
+    second: Gif11_42
+  - first:
+      213: -4282987915626378032
+    second: Gif11_43
+  - first:
+      213: 6786997314570246947
+    second: Gif11_44
+  - first:
+      213: -8297034240366086619
+    second: Gif11_45
+  - first:
+      213: 7776646208263944811
+    second: Gif11_46
+  - first:
+      213: 6358131598969481591
+    second: Gif11_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gif11_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1890
+        width: 405
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae81c112f3a50310800000000000000
+      internalID: 1370681921679494816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif11_1
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1890
+        width: 405
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3fbcc39b9a21da40800000000000000
+      internalID: 5391137076627160890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif11_2
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1890
+        width: 405
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2692cc5090d2ce80800000000000000
+      internalID: -8159730256391793107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif11_3
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 1890
+        width: 405
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ef136e46e6dd840800000000000000
+      internalID: 5250474120221687313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif11_4
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1890
+        width: 405
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05afb2b5fde77cd20800000000000000
+      internalID: 3298744749844593232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif11_5
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 1890
+        width: 405
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8589305e1f98edbc0800000000000000
+      internalID: -3756413367158073256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif11_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1620
+        width: 405
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98928d78df865c8a0800000000000000
+      internalID: -6285502266810553975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif11_7
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1620
+        width: 405
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a98b5f20ca3a7700800000000000000
+      internalID: 538807702526855590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif11_8
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1620
+        width: 405
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f765231b2542bf90800000000000000
+      internalID: -6939408024517384206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif11_9
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 1620
+        width: 405
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6f7563802091b20800000000000000
+      internalID: 3105515652343396045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif11_10
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1620
+        width: 405
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a70e24acc964310800000000000000
+      internalID: 1388969927609711229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif11_11
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 1620
+        width: 405
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc65a13baed324440800000000000000
+      internalID: 4918561821278492363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif11_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1350
+        width: 405
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4345f0118a8b93d0800000000000000
+      internalID: -3198810823376682166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif11_13
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1350
+        width: 405
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09518195ac61e09b0800000000000000
+      internalID: -5112123468684978800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif11_14
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1350
+        width: 405
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec623ba10a8311410800000000000000
+      internalID: 1445999215656511182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif11_15
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 1350
+        width: 405
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1437f639d719ebb0800000000000000
+      internalID: -4906364097345932258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif11_16
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1350
+        width: 405
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00243ea1ef768d00800000000000000
+      internalID: 974606976639311883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif11_17
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 1350
+        width: 405
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd55f6002da429e60800000000000000
+      internalID: 7967512956582712799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif11_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 405
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe75fbf183f59d60800000000000000
+      internalID: 7896485261267533567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif11_19
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1080
+        width: 405
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10b7e805282cd1d0800000000000000
+      internalID: -3324738285377966051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif11_20
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1080
+        width: 405
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab0abb65b8079b20800000000000000
+      internalID: 3140988840403667872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif11_21
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 1080
+        width: 405
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6250c4234149e4520800000000000000
+      internalID: 2688248842050864422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif11_22
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1080
+        width: 405
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4e91ff7a3201530800000000000000
+      internalID: 3823595288083948720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif11_23
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 1080
+        width: 405
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf94dc48c60953c30800000000000000
+      internalID: 4338532611800254972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif11_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 810
+        width: 405
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da054f890113eea0800000000000000
+      internalID: -5844809158640727340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif11_25
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 810
+        width: 405
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b644cda87c7efe50800000000000000
+      internalID: 6845045341402973878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif11_26
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 810
+        width: 405
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2140ad8e70abfba70800000000000000
+      internalID: 8844992736313082898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif11_27
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 810
+        width: 405
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea6296ddaced9e10800000000000000
+      internalID: 2206179623854828267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif11_28
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 810
+        width: 405
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c130c94911603eec0800000000000000
+      internalID: -3538978209605614820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif11_29
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 810
+        width: 405
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a2e88477e5aced0800000000000000
+      internalID: -2392996385582601626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif11_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 405
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca10b3f6ac76bbd0800000000000000
+      internalID: -2614765477147174202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif11_31
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 540
+        width: 405
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d841801138c4570800000000000000
+      internalID: 8452274709840825674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif11_32
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 540
+        width: 405
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22efe1733e7f20330800000000000000
+      internalID: 3675772801142160930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif11_33
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 540
+        width: 405
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5286972160fc90b80800000000000000
+      internalID: -8427977602660472795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif11_34
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 540
+        width: 405
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b55dc8775e109ea0800000000000000
+      internalID: -5868156953426045515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif11_35
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 540
+        width: 405
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5319dbe38dd6525c0800000000000000
+      internalID: -4240862698566479563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif11_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 405
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5706e301362af470800000000000000
+      internalID: 8429091644537964382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif11_37
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 270
+        width: 405
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee9aa8e7841e3210800000000000000
+      internalID: 1314510715195399918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif11_38
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 270
+        width: 405
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2eabfd7670369190800000000000000
+      internalID: -7956118406225482195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif11_39
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 270
+        width: 405
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1423c9d717ca2ffa0800000000000000
+      internalID: -5768358569269513663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif11_40
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 270
+        width: 405
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2156814bea8afc5c0800000000000000
+      internalID: -4192947259759368942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif11_41
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 270
+        width: 405
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb67e57acc646500800000000000000
+      internalID: 388555084677999592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif11_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 405
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e094d84f134f820800000000000000
+      internalID: 2951038582246674069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

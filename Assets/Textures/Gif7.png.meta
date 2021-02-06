@@ -1,0 +1,610 @@
+fileFormatVersion: 2
+guid: ef4827819c00bfc4b961cb955682e7ca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2115596937402771517
+    second: Gif7_0
+  - first:
+      213: 5685131136598051969
+    second: Gif7_1
+  - first:
+      213: 575090158877876149
+    second: Gif7_2
+  - first:
+      213: 375694050039698939
+    second: Gif7_3
+  - first:
+      213: 1954301167409338478
+    second: Gif7_4
+  - first:
+      213: -672481778930871238
+    second: Gif7_5
+  - first:
+      213: 3614721363980194289
+    second: Gif7_6
+  - first:
+      213: 6425854910990253284
+    second: Gif7_7
+  - first:
+      213: 7323678884506756579
+    second: Gif7_8
+  - first:
+      213: 2754508740796079521
+    second: Gif7_9
+  - first:
+      213: -6802344955172393406
+    second: Gif7_10
+  - first:
+      213: 7021252761996462076
+    second: Gif7_11
+  - first:
+      213: 4949885894815687918
+    second: Gif7_12
+  - first:
+      213: 8481885115100299780
+    second: Gif7_13
+  - first:
+      213: 8454114243662243225
+    second: Gif7_14
+  - first:
+      213: -5882170566037983207
+    second: Gif7_15
+  - first:
+      213: 5306680772314173160
+    second: Gif7_16
+  - first:
+      213: 6097019402502425647
+    second: Gif7_17
+  - first:
+      213: -3045303839386095359
+    second: Gif7_18
+  - first:
+      213: 8547124259115820384
+    second: Gif7_19
+  - first:
+      213: -1708391684162458401
+    second: Gif7_20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gif7_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 830
+        width: 220
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7143a5bc3e3a2e0800000000000000
+      internalID: -2115596937402771517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif7_1
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 830
+        width: 220
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c807ac5a4a5ee40800000000000000
+      internalID: 5685131136598051969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif7_2
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 830
+        width: 220
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf1db9d3712bf700800000000000000
+      internalID: 575090158877876149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif7_3
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 830
+        width: 220
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf518dc7fbbb63500800000000000000
+      internalID: 375694050039698939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif7_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 664
+        width: 220
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e689093be821f1b10800000000000000
+      internalID: 1954301167409338478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif7_5
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 664
+        width: 220
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3417e0926ddaa6f0800000000000000
+      internalID: -672481778930871238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif7_6
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 664
+        width: 220
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f11e0ecde11a2230800000000000000
+      internalID: 3614721363980194289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif7_7
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 664
+        width: 220
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ecf5c3fef83d2950800000000000000
+      internalID: 6425854910990253284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif7_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 498
+        width: 220
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5ed08942fe2a560800000000000000
+      internalID: 7323678884506756579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif7_9
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 498
+        width: 220
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1addbd11b1bf93620800000000000000
+      internalID: 2754508740796079521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif7_10
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 498
+        width: 220
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e674bbd473991a0800000000000000
+      internalID: -6802344955172393406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif7_11
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 498
+        width: 220
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf78705df20807160800000000000000
+      internalID: 7021252761996462076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif7_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 332
+        width: 220
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4a437eef681b440800000000000000
+      internalID: 4949885894815687918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif7_13
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 332
+        width: 220
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4020a3fb295b5b570800000000000000
+      internalID: 8481885115100299780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif7_14
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 332
+        width: 220
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995ee00ec1c035570800000000000000
+      internalID: 8454114243662243225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif7_15
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 332
+        width: 220
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9103c0709055e5ea0800000000000000
+      internalID: -5882170566037983207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif7_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 166
+        width: 220
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee8e22eb0e15a940800000000000000
+      internalID: 5306680772314173160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif7_17
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 166
+        width: 220
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c42dad7d6fc9450800000000000000
+      internalID: 6097019402502425647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif7_18
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 166
+        width: 220
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1013244fa48ecb5d0800000000000000
+      internalID: -3045303839386095359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif7_19
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 166
+        width: 220
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065e8b3aa3c7d9670800000000000000
+      internalID: 8547124259115820384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gif7_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 220
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdce34090d29a48e0800000000000000
+      internalID: -1708391684162458401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
