@@ -1,4 +1,4 @@
-# Game-Jam-1
+# Game Jam 1
 A game created with 4 other college students for a game jam as part of the ISU Game Development Club.
 We had 48 hours to create a game from start to finish, this was what we came up with. The game is a rhythm game that 
 gets harder and more complex the more consecutive notes you hit. 
